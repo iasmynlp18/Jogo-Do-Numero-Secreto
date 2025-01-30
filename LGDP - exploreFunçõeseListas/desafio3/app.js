@@ -54,7 +54,7 @@ function salaCircular(raio) {
     alert(`O perímetro da sala circular é de ${perimetro.toFixed(3)} m2`);
 }
 
-salaCircular(2.54, 13.76);
+salaCircular(2.54);
 
 
 // Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
