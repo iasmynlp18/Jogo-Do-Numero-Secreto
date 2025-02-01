@@ -1,9 +1,9 @@
 # O jogo do número secreto <br>
   
-<br> **Objetivo:** O objetivo do jogo é acertar o número secreto que foi escolhido aleatoriamente entre 1 e 10. <br>
-<br> **Como jogar:** Você faz um chute, escolhendo um número entre 1 e 10, sendo 1 e 10 inclusivos. O jogo vai te dizer se o número que você escolheu é maior ou menor que o número secreto. <br>
+<br> **Objetivo:** O objetivo do jogo é acertar o número secreto que foi escolhido aleatoriamente entre 1 e 100. <br>
+<br> **Como jogar:** Você faz um chute, escolhendo um número entre 1 e 100, sendo 1 e 100 inclusivos. O jogo vai te dizer se o número que você escolheu é maior ou menor que o número secreto. <br>
 <br> **Dicas:** Se você errar, use a dica para ajustar seu próximo palpite e continue chutando até acertar o número secreto. <br>
-<br> **Exemplo:** Se o número secreto for 7 e você chutar 5, o jogo pode te dizer "O número secreto é maior". Se você então chutar 8, o jogo pode te dizer "O número secreto é menor". Quando você acertar, o jogo vai dizer "Você acertou!" e assim, o jogo termina. <br>
+<br> **Exemplo:** Se o número secreto for 79 e você chutar 57, o jogo pode te dizer "O número secreto é maior". Se você então chutar 86, o jogo pode te dizer "O número secreto é menor". Quando você acertar, o jogo vai dizer "Você acertou!" e assim, o jogo termina. <br>
 <br> O jogo continua até você encontrar o número certo! <br><br>
 
 ## Principais conceitos <br>
