@@ -1,6 +1,11 @@
 # 🕵️ O jogo do número secreto 🎁​​<br>
+<br>
 
-### ​🎯​ Objetivo: 
+Aecesse o jogo por aqui: [**Jogo do Número Secreto**](https://jogo-do-numero-secreto-gamma-ivory.vercel.app)
+
+<br>
+
+## ​🎯​ Objetivo: 
 O objetivo do jogo é acertar o número secreto escolhido aleatoriamente entre 1 e 100. 
 <br><br>
 
